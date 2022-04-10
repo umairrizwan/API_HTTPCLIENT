@@ -2,7 +2,7 @@
 Clone from https://github.com/umairrizwan/API_HTTPCLIENT Open project in eclipse and extend the folder structure and copy config.properties
 from eclipse highlighted in screenshot and create a folder in C:\Config and paste it there example
 
-![image](https://user-images.githubusercontent.com/63503754/162641636-58ddda28-0a93-48db-bebe-c72645414da9.png)
+![image](https://user-images.githubusercontent.com/63503754/162641758-b1da3330-7009-4307-9477-9430a3c6f95a.png)
 
 Right click on GETCall.java present in the snapshot below and run as JUnit.
 
