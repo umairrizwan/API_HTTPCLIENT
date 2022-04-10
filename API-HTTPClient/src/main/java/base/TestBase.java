@@ -22,7 +22,7 @@ public class TestBase {
 	{
 		try {
 		properties = new Properties();
-	     FileInputStream inp = new FileInputStream("C:\\Users\\umair\\eclipse-workspace\\API-HTTPClient\\src\\main\\java\\config\\config.properties");
+	     FileInputStream inp = new FileInputStream("C:\\config\\config.properties");
 	     properties.load(inp);
 		}
 		catch(FileNotFoundException e)
