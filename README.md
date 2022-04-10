@@ -4,6 +4,7 @@ from eclipse highlighted in screenshot and create a folder in C:\Config and past
 
 ![image](https://user-images.githubusercontent.com/63503754/162641758-b1da3330-7009-4307-9477-9430a3c6f95a.png)
 
-Right click on GETCall.java present in the snapshot below and run as JUnit.
+Right click on GET_API_TEST.java present in the snapshot below and run as TestNG.
+Right click on GET_API_TEST.java present in the snapshot below and run as TestNG.
 
-![image](https://user-images.githubusercontent.com/63503754/118987442-2b622b00-b978-11eb-89df-cafc1526ee5c.png)
+![image](https://user-images.githubusercontent.com/63503754/162642059-04098d89-6af2-489b-9527-54e37064baac.png)
